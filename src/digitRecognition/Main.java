@@ -1,4 +1,4 @@
-package digitRecognition;
+package recognitionNeuronCreator;
 
 import java.util.Scanner;
 
